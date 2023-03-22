@@ -6,7 +6,7 @@
 
 🌱 **▸** i have dived into **Typescript/Javascript** and **React/React Native** with knowledge of **Python**. \
 📚 **▸** I have bachelor's in computer science specialism in data analyst. \
-📫 **▸** I'm looking forward to find my place in the programming world. \
+📫 **▸** I'm looking forward to find my place in the programming world. 
 
 👾 **▸ About my hobbies, I like:** \
 🎮 `Games` •🏸 `Badminton`• 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music` 
